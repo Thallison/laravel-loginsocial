@@ -10,11 +10,11 @@
 ## Configuração Projeto Social Laravel
 Configurar as variaveis abaixo do arquivo .env 
 
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
+-GITHUB_CLIENT_ID=
+-GITHUB_CLIENT_SECRET=
 
-FACEBOOK_CLIENT_ID=
-FACEBOOK_CLIENT_SECRET=
+-FACEBOOK_CLIENT_ID=
+-FACEBOOK_CLIENT_SECRET=
 
 
 ## About Laravel
